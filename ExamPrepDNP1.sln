@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{06A77A4A-653D-4178-958C-789F67075C74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{99383011-C645-4AD1-9A29-A9B75353E767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06A77A4A-653D-4178-958C-789F67075C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06A77A4A-653D-4178-958C-789F67075C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06A77A4A-653D-4178-958C-789F67075C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06A77A4A-653D-4178-958C-789F67075C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99383011-C645-4AD1-9A29-A9B75353E767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99383011-C645-4AD1-9A29-A9B75353E767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99383011-C645-4AD1-9A29-A9B75353E767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99383011-C645-4AD1-9A29-A9B75353E767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
